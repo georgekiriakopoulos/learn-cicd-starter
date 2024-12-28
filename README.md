@@ -1,6 +1,6 @@
 # Tests Status 
 
-![code coverage badge]https://github.com/georgekiriakopoulos/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
+https://github.com/georgekiriakopoulos/learn-cicd-starter/actions/workflows/ci.yml/badge.svg
 
 
 # learn-cicd-starter (Notely)
